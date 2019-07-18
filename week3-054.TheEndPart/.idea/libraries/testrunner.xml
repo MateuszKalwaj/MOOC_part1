@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="testrunner">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/testrunner" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/powermock-easymock-1.5.5-full.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/powermock-easymock-1.5.5-full.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/testrunner" recursive="false" />
+  </library>
+</component>
